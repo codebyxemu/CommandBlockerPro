@@ -1,0 +1,5 @@
+name: CommandBlockerPro
+version: '${project.version}'
+main: me.xemu.commandblockerpro.CommandBlocker
+api-version: 1.19
+authors: [ Xemu ]
